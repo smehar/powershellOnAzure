@@ -1,2 +1,2 @@
-New-Item C:\test.txt
-Set-Content C:\test.txt 'test extension on azure'
+New-Item test.txt
+Set-Content test.txt 'test extension on azure'
